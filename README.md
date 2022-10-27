@@ -1,2 +1,3 @@
-# demos.github.io
-Demos
+# Demos
+
+## go to [pathfinder's source repository](https://github.com/thecoderseye/pathfinders)
